@@ -1,2 +1,1 @@
-x=input()y
-if x=="9966" print("sairam") else print("unknown")
+test build-1
